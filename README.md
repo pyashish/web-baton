@@ -43,3 +43,9 @@ Populate config.json with headers & templatization.
 ```bash
 uvicorn baton:app --reload
 ```
+### Provide the server url in the webhook configuration
+
+```server_url : https://web-baton-server:8000/web-baton``` 
+
+Note: By default the server runs on port 8000. 
+
