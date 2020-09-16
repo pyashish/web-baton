@@ -2,7 +2,10 @@
 
 
 <img src="app/img/web-baton.jpg" height="250">
-Webhook templatization made easy. 
+
+#### Webhook templatizations made stupid easy. 
+
+v0.1.0: Supports for Headers & custom templates.
 
 
 ## Getting Started
