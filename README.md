@@ -1,11 +1,15 @@
 # Web-Baton
 
-![web-baton](app/img/web-baton.jpg = 250x250)
 
+<img src="app/img/web-baton.jpg" height="250">
 Webhook templatization made easy. 
 
 
 ## Getting Started
+
+### Dependencies 
+
+Python >=3.6
 
 ### Installation
 ```python
