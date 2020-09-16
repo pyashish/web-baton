@@ -37,9 +37,9 @@ Populate config.json with headers & templatization.
     }
   }
 }
-
-### Start the server
 ```
+### Start the server
+
 ```bash
 uvicorn baton:app --reload
 ```
