@@ -1,0 +1,16 @@
+{
+  "url": "https://webhook.site/5be5605e-2217-48cc-9595-15b23f528dd4",
+  "headers": {
+      "GNSD-APP-ID": "ism",
+      "GNSD-APP-KEY": "d0b8da232721be389edec15af0640ea"
+  },
+  "payload_template": {
+    "apple_incident_name": "alertCause",
+    "apple_incident_metadata" : {
+      "apple_alert_id": "alertId",
+      "apple_properties": {
+        "reason": "alertProperties.failure_reason"
+      }
+    }
+  }
+}
