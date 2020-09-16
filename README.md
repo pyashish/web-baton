@@ -47,5 +47,5 @@ uvicorn baton:app --reload
 
 ```server_url : https://web-baton-server:8000/web-baton``` 
 
-Note: By default the server runs on port 8000. 
+Note: By default the server runs on port 8000. This is configurable.
 
